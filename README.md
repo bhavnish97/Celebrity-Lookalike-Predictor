@@ -1,2 +1,2 @@
 # Celebrity-Lookalike-Predictor
-Model to predict which celebrity you look like.
+Deep Learning Model to predict which celebrity you look like.
